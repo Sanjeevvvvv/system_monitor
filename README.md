@@ -41,7 +41,8 @@ python system_monitor.py
 
 ## Screenshots
 
-![System Monitor Screenshot](screenshot.png)
+<img width="1919" height="1079" alt="Screenshot 2025-10-15 231443" src="https://github.com/user-attachments/assets/efccb06d-2f21-40a5-aa54-5d40b68d6b0c" />
+
 
 ## Notes
 
